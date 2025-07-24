@@ -1,0 +1,3 @@
+[submodule "codecrafters-shell-kotlin"]
+	path = codecrafters-shell-kotlin
+	url = git@github-aikhelis:aikhelis/codecrafters-shell-kotlin.git
