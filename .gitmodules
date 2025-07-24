@@ -4,3 +4,12 @@
 [submodule "codecrafters-redis-kotlin"]
 	path = codecrafters-redis-kotlin
 	url = git@github.com:aikhelis/codecrafters-redis-kotlin.git
+[submodule "codecrafters-kafka-typescript"]
+	path = codecrafters-kafka-typescript
+	url = git@github.com:aikhelis/codecrafters-kafka-typescript.git
+[submodule "codecrafters-dns-server-kotlin"]
+	path = codecrafters-dns-server-kotlin
+	url = git@github.com:aikhelis/codecrafters-dns-server-kotlin.git
+[submodule "codecrafters-http-server-kotlin"]
+	path = codecrafters-http-server-kotlin
+	url = git@github.com:aikhelis/codecrafters-http-server-kotlin.git
