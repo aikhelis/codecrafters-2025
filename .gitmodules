@@ -1,3 +1,6 @@
 [submodule "codecrafters-shell-kotlin"]
 	path = codecrafters-shell-kotlin
 	url = git@github.com:aikhelis/codecrafters-shell-kotlin.git
+[submodule "codecrafters-redis-kotlin"]
+	path = codecrafters-redis-kotlin
+	url = git@github.com:aikhelis/codecrafters-redis-kotlin.git
