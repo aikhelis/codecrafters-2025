@@ -13,3 +13,6 @@
 [submodule "codecrafters-http-server-kotlin"]
 	path = codecrafters-http-server-kotlin
 	url = git@github.com:aikhelis/codecrafters-http-server-kotlin.git
+[submodule "codecrafters-git-rust"]
+	path = codecrafters-git-rust
+	url = git@github.com:aikhelis/codecrafters-git-rust.git
